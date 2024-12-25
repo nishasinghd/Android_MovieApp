@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "266859179599",
+    "project_id": "assignment-3-nisha",
+    "storage_bucket": "assignment-3-nisha.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266859179599:android:e5fd459dbc3ca78bbf043a",
+        "android_client_info": {
+          "package_name": "com.example.a2_nisha8868489"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDweLGX9JJ321B5EQejeH2xAkqRogg4WQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
